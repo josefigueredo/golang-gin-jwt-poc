@@ -1,7 +1,5 @@
 # Build a Golang app with the Gin framework, and authenticate with Auth0 + JWT
 
-This repo contains the code samples for the [Build a Golang app with the Gin framework, and authenticate with Auth0 + JWT ](https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react) article.
-
 ## Setup
 
 1. Update the `main.go` file with your Auth0 Credentials. [Sign up](https://auth0.com) for an account for free if you don't have one.
@@ -13,9 +11,3 @@ This repo contains the code samples for the [Build a Golang app with the Gin fra
 7. Launch the application by running `go run main.go`
 8. Navigate to `localhost:3000` to view the application
 
-## Author
-[Francis Sunday](https://twitter.com/codehakase)
-
-## License
-
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
