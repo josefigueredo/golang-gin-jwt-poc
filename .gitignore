@@ -1,2 +1,17 @@
+<<<<<<< HEAD
 .env
 main
+=======
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+>>>>>>> 99dbe61298908242d1951c89a09e77c75c410e38
